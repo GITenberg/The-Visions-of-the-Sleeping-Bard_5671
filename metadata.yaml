@@ -1,0 +1,40 @@
+_repo: The-Visions-of-the-Sleeping-Bard_5671
+_version: 0.0.1
+alternative_title: Gweledigaethau y bardd cwsg. English
+contributor:
+  translator:
+    agent_name: Davies, Robert Gwyneddon
+    birthdate: 1870
+    deathdate: 1928
+    gutenberg_agent_id: '9470'
+    url: http://www.gutenberg.org/2009/agents/9470
+covers:
+- cover_type: archival
+  image_path: 5671/5671-h/images/covers.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Wynne, Ellis
+    birthdate: 1671
+    deathdate: 1734
+    gutenberg_agent_id: '1835'
+    url: http://www.gutenberg.org/2009/agents/1835
+    wikipedia: http://en.wikipedia.org/wiki/Ellis_Wynne
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Welsh literature -- 18th century'
+- !lcsh 'Wynne, Ellis, 1671-1734'
+- !lcc 'PB'
+- !lcsh 'Welsh literature -- Translations into English'
+- GITenberg
+title: The Visions of the Sleeping Bard
+url: http://www.gutenberg.org/ebooks/5671
